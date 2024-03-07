@@ -1,0 +1,9 @@
+{
+  "name": "DSP_Jammer_Range",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/w-gates/dsp-jammer-range",
+  "description": "Allow configuration of the base Jammer Tower range and for the range to be increased along with the EM Weapon Strength upgrade.",
+  "dependencies": [
+    "xiaoye97-BepInEx-5.4.17"
+  ]
+}
