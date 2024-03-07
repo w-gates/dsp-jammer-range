@@ -31,9 +31,5 @@ This mod can also be installed using ebkr's [r2modman](https://dsp.thunderstore.
 ## Open Source
 The source code for this mod is available for download, review and forking on GitHub [here](https://github.com/w-gates/dsp-jammer-range) under the BSD 3 clause license.
 
-## Change Log
-### v1.0.0
- - Initial release.
-
 # Credit
 This mod was created using the [DSP Drone Clearing](https://dsp.thunderstore.io/package/GreyHak/DSP_Drone_Clearing/) mod as a base.
